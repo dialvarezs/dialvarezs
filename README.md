@@ -15,7 +15,7 @@ When I'm not exploring genomic data, I'm probably doing some web development wit
 
 ## Stuff I love
 
-- [Nextflow](https://www.nextflow.io/) - The best workflow manager for bioinformatics.
-- [Typst](https://typst.app/) - The next LaTeX? Way faster and easier to use.
-- [Litestar](https://litestar.dev/) - My go-to web framework for building APIs in Python.
-- [Polars](https://www.pola.rs/) - DataFrame manipulation fast and with a modern API.
+- [Nextflow](https://www.nextflow.io/) - Makes creating bioinformatics pipelines quick and enjoyable.
+- [Typst](https://typst.app/) - Modern alternative to LaTeX faster and with better ergonomics.
+- [Litestar](https://litestar.dev/) - My go-to framework for building Python APIs.
+- [Polars](https://www.pola.rs/) - Fast and modern DataFrame library that makes working with data a breeze.
