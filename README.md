@@ -16,6 +16,6 @@ Active contributor of the nf-core community, particularly maintaining the [nf-co
 ## Stuff I love
 
 - [Nextflow](https://www.nextflow.io/) - Makes creating bioinformatics pipelines quick and enjoyable.
-- [Typst](https://typst.app/) - Modern alternative to LaTeX faster and with better ergonomics.
+- [Typst](https://typst.app/) - Modern alternative to LaTeX, faster and with better ergonomics.
 - [Litestar](https://litestar.dev/) - My go-to framework for building Python APIs.
 - [Polars](https://www.pola.rs/) - Fast and modern DataFrame library that makes working with data a breeze.
