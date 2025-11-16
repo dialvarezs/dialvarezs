@@ -4,6 +4,8 @@ I'm a bioinformatician / software developer specialized in building Nextflow pip
 
 When I'm not exploring genomic data, I'm probably doing some web development with Litestar/FastAPI and Vue/Nuxt, or tinkering with Linux systems.
 
+Active contributor of the nf-core community, particularly maintaining the [nf-core/mag](https://github.com/nf-core/mag) pipeline.
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dialvarezs&theme=gotham&count_private=true&show_icons=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dialvarezs&theme=gotham&hide=html&layout=compact&size_weight=0.8&count_weight=0.2)
 
