@@ -1,6 +1,6 @@
 ### Hey! I'm Diego
 
-I'm a bioinformatician / software developer specialized in building Nextflow pipelines and tools in Python, R, and Rust. Love automating stuff and creating nice visualizations. Advocate for open science and reproducible research.
+I'm a bioinformatician / software developer specialized in building Nextflow pipelines and tools in Python, R, and Rust. Love automating stuff and creating nice visualizations and beautiful documents. Advocate for open science and reproducible research.
 
 When I'm not exploring genomic data, I'm probably doing some web development with Litestar/FastAPI and Vue/Nuxt, or tinkering with Linux systems.
 
