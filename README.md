@@ -13,7 +13,7 @@ Active contributor of the [nf-core](https://nf-co.re/) community, particularly m
 
 ![Skills](https://go-skill-icons.vercel.app/api/icons?i=python,r,rust,nextflow,bash,linux,anaconda,typst,latex)
 
-![WebDev Skills](https://go-skill-icons.vercel.app/api/icons?i=litestar,fastapi,ts,vue,nuxt,postgres,docker)
+![WebDev Skills](https://go-skill-icons.vercel.app/api/icons?i=litestar,fastapi,ts,vue,nuxt,postgres,docker,podman)
 
 ## Stuff I love
 
