@@ -4,7 +4,7 @@ I'm a bioinformatician / software developer specialized in building Nextflow pip
 
 When I'm not exploring genomic data, I'm probably doing some web development with Litestar/FastAPI and Vue/Nuxt, or tinkering with Linux systems.
 
-Active contributor of the nf-core community, particularly maintaining the [nf-core/mag](https://github.com/nf-core/mag) pipeline.
+Active contributor of the [nf-core](https://nf-co.re/) community, particularly maintaining the [nf-core/mag](https://github.com/nf-core/mag) pipeline.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dialvarezs&theme=gotham&count_private=true&show_icons=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dialvarezs&theme=gotham&hide=html&layout=compact&size_weight=0.8&count_weight=0.2)
@@ -15,7 +15,7 @@ Active contributor of the nf-core community, particularly maintaining the [nf-co
 
 ## Stuff I love
 
-- [Nextflow](https://www.nextflow.io/) - Makes creating bioinformatics pipelines quick and enjoyable.
-- [Typst](https://typst.app/) - Modern alternative to LaTeX, faster and with better ergonomics.
-- [Litestar](https://litestar.dev/) - My go-to framework for building Python APIs.
-- [Polars](https://www.pola.rs/) - Fast and modern DataFrame library that makes working with data a breeze.
+- [Nextflow](https://github.com/nextflow-io/nextflow) - Makes creating bioinformatics pipelines quick and enjoyable.
+- [Typst](https://github.com/typst/typst) - Modern alternative to LaTeX, faster and with better ergonomics.
+- [Litestar](https://github.com/litestar-org/litestar) - My go-to framework for building Python APIs.
+- [Polars](https://github.com/pola-rs/polars) - Fast and modern DataFrame library that makes working with data a breeze.
