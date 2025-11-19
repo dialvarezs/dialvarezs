@@ -11,7 +11,7 @@ Active contributor of the [nf-core](https://nf-co.re/) community, particularly m
 
 ## Techologies and tools I use
 
-![Skills](https://skillicons.dev/icons?i=python,r,rust,ts,bash,linux,anaconda,latex,docker,postgres,fastapi,vue,nuxt)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=python,r,rust,nextflow,bash,linux,anaconda,typst,latex,docker,postgres,litestar,fastapi,ts,vue,nuxt)
 
 ## Stuff I love
 
