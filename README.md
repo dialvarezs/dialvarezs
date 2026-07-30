@@ -7,14 +7,14 @@ When I'm not exploring genomic data, I'm probably doing some web development wit
 Active contributor of the [nf-core](https://nf-co.re/) community, particularly maintaining the [nf-core/mag](https://github.com/nf-core/mag) pipeline.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-psi-31.vercel.app/api?username=dialvarezs&theme=vue-dark&bg_color=00000000&hide_border=true&count_private=true&show_icons=true&hide_title=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-psi-31.vercel.app/api?username=dialvarezs&theme=vue&bg_color=00000000&hide_border=true&count_private=true&show_icons=true&hide_title=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats-six-psi-31.vercel.app/api?username=dialvarezs&theme=vue-dark&bg_color=00000000&hide_border=true&count_private=true&show_icons=true&hide_title=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dialvarezs/dialvarezs/main/profile/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dialvarezs/dialvarezs/main/profile/stats-light.svg">
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/dialvarezs/dialvarezs/main/profile/stats-dark.svg">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-psi-31.vercel.app/api/top-langs/?username=dialvarezs&theme=vue-dark&bg_color=00000000&hide_border=true&hide=html&layout=compact&size_weight=0.8&count_weight=0.2&exclude_repo=teaching-r%2Cgithub-readme-stats%2Cmsc-thesis">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-psi-31.vercel.app/api/top-langs/?username=dialvarezs&theme=vue&bg_color=00000000&hide_border=true&hide=html&layout=compact&size_weight=0.8&count_weight=0.2&exclude_repo=teaching-r%2Cgithub-readme-stats%2Cmsc-thesis">
-  <img alt="Top Languages" src="https://github-readme-stats-six-psi-31.vercel.app/api/top-langs/?username=dialvarezs&theme=vue-dark&bg_color=00000000&hide_border=true&hide=html&layout=compact&size_weight=0.8&count_weight=0.2&exclude_repo=teaching-r%2Cgithub-readme-stats%2Cmsc-thesis">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dialvarezs/dialvarezs/main/profile/top-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dialvarezs/dialvarezs/main/profile/top-langs-light.svg">
+  <img alt="Top Languages" src="https://raw.githubusercontent.com/dialvarezs/dialvarezs/main/profile/top-langs-dark.svg">
 </picture>
 
 ## Techologies and tools I use

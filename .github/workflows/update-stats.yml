@@ -1,0 +1,56 @@
+name: Update stats cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+
+      - name: Generate stats card (dark)
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: stats
+          options: username=dialvarezs&theme=vue-dark&bg_color=00000000&hide_border=true&count_private=true&show_icons=true&hide_title=true
+          path: profile/stats-dark.svg
+          token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Generate stats card (light)
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: stats
+          options: username=dialvarezs&theme=vue&bg_color=00000000&hide_border=true&count_private=true&show_icons=true&hide_title=true
+          path: profile/stats-light.svg
+          token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Generate top-langs card (dark)
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: top-langs
+          options: username=dialvarezs&theme=vue-dark&bg_color=00000000&hide_border=true&hide=html,jupyter%20notebook&layout=compact&size_weight=0.8&count_weight=0.2&exclude_repo=teaching-r,github-readme-stats,msc-thesis
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Generate top-langs card (light)
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: top-langs
+          options: username=dialvarezs&theme=vue&bg_color=00000000&hide_border=true&hide=html,jupyter%20notebook&layout=compact&size_weight=0.8&count_weight=0.2&exclude_repo=teaching-r,github-readme-stats,msc-thesis
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update stats cards" || exit 0
+          git push
