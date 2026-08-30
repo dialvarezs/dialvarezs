@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Diego Alvarez S.&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 96, Total Commits  (last year) : 3889, Total PRs: 419, Total Issues: 57, Contributed to (last year): 50</desc>
+        <desc id="descId">Total Stars Earned: 96, Total Commits  (last year) : 3910, Total PRs: 419, Total Issues: 57, Contributed to (last year): 50</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 36.022392455564514;
+        stroke-dashoffset: 36.02234327553015;
       }
     }
   
